@@ -2,7 +2,7 @@
 - **License**: GPL v.3, Please see [License File](LICENSE) for more information.
 - **Github Repository**: <https://github.com/shopwarrior>
 
-## About Odessite Cronjob
+## About Odessite Static Image
 
 Shopware 5.2 plugin system, this example assign static images to the footer
 
